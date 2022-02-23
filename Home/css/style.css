@@ -1,0 +1,51 @@
+body
+{
+  background-color:darkslategrey
+}
+h1
+{
+  font-style:bold;
+  color:Red;
+  text-align: center;
+}
+ li {
+  list-style-type: none;
+  /*color:gold;*/
+} 
+
+ a:link
+{
+  color:gold;
+} 
+
+ a:hover
+{
+  color:rgb(43, 255, 0);
+} 
+a:visited
+{
+  color:rgb(255, 223, 137);
+}
+li.a :visited
+{
+  color:gray;
+}
+.highlight
+{
+  color:antiquewhite;
+}
+li>a {
+  color:indianred;
+}
+ul>li
+{
+  color:lavenderblush;
+}
+ ol>li
+{
+  color:rgb(198, 250, 253);
+} 
+img[src*="../Pics/"]
+{
+border: 10px steelblue;
+}

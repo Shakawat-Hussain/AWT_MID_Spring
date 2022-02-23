@@ -1,0 +1,92 @@
+[
+    {
+        "LicenseNo": "140257",
+        "StoreName": "Compalace",
+        "City": "Sylhet",
+        "Zela": "Sunamganj",
+        "PostalCode": "1200",
+        "StoreId": "8701",
+        "Location": "JSda wsdS"
+    },
+    {
+        "LicenseNo": "140258",
+        "StoreName": "Hakimstore",
+        "City": "chittagong",
+        "Zela": "khageachori",
+        "PostalCode": "4002",
+        "StoreId": "8702",
+        "Location": "Chittagong ,Bangaldersg"
+    },
+    {
+        "LicenseNo": "",
+        "StoreName": "",
+        "City": "",
+        "Zela": "",
+        "PostalCode": "",
+        "StoreId": "",
+        "Location": ""
+    },
+    {
+        "LicenseNo": "",
+        "StoreName": "",
+        "City": "",
+        "Zela": "",
+        "PostalCode": "",
+        "StoreId": "",
+        "Location": ""
+    },
+    {
+        "LicenseNo": "",
+        "StoreName": "",
+        "City": "",
+        "Zela": "",
+        "PostalCode": "",
+        "StoreId": "",
+        "Location": ""
+    },
+    {
+        "LicenseNo": "",
+        "StoreName": "",
+        "City": "",
+        "Zela": "",
+        "PostalCode": "",
+        "StoreId": "",
+        "Location": ""
+    },
+    {
+        "LicenseNo": null,
+        "StoreName": null,
+        "City": null,
+        "Zela": null,
+        "PostalCode": null,
+        "StoreId": "8703",
+        "Location": null
+    },
+    {
+        "LicenseNo": null,
+        "StoreName": null,
+        "City": null,
+        "Zela": null,
+        "PostalCode": null,
+        "StoreId": "8704",
+        "Location": null
+    },
+    {
+        "LicenseNo": null,
+        "StoreName": null,
+        "City": null,
+        "Zela": null,
+        "PostalCode": null,
+        "StoreId": "8701",
+        "Location": null
+    },
+    {
+        "LicenseNo": null,
+        "StoreName": null,
+        "City": null,
+        "Zela": null,
+        "PostalCode": null,
+        "StoreId": "",
+        "Location": null
+    }
+]

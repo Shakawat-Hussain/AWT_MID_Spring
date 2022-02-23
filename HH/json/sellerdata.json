@@ -1,0 +1,112 @@
+[
+    {
+        "FirstName": "Zahir",
+        "LastName": "Rayhan",
+        "MobileNo": "01241444410",
+        "Email": "xza@yahoo.com",
+        "Address": "Railstation,Bangaldersg",
+        "SellerId": "1003",
+        "Gender": "other",
+        "hiredate": "2021-10-15T19:54"
+    },
+    {
+        "FirstName": "Iqbal",
+        "LastName": "Hussain",
+        "MobileNo": "016246907044534",
+        "Email": "fdfd@gmail.com",
+        "Address": "Sylhet",
+        "SellerId": "1003",
+        "Gender": "male",
+        "hiredate": "2021-07-30T10:34"
+    },
+    {
+        "FirstName": "Shakawat",
+        "LastName": "Hussain",
+        "MobileNo": "01624690704",
+        "Email": "amshakawat@gmail.com",
+        "Address": "Sylhet",
+        "SellerId": "1001",
+        "Gender": "male",
+        "hiredate": ""
+    },
+    {
+        "FirstName": null,
+        "LastName": null,
+        "MobileNo": null,
+        "Email": null,
+        "Address": null,
+        "SellerId": null,
+        "Gender": null,
+        "hiredate": null
+    },
+    {
+        "FirstName": null,
+        "LastName": null,
+        "MobileNo": null,
+        "Email": null,
+        "Address": null,
+        "SellerId": null,
+        "Gender": null,
+        "hiredate": null
+    },
+    {
+        "FirstName": null,
+        "LastName": null,
+        "MobileNo": null,
+        "Email": null,
+        "Address": null,
+        "SellerId": null,
+        "Gender": null,
+        "hiredate": null
+    },
+    {
+        "FirstName": null,
+        "LastName": null,
+        "MobileNo": null,
+        "Email": null,
+        "Address": null,
+        "SellerId": null,
+        "Gender": null,
+        "hiredate": null
+    },
+    {
+        "FirstName": null,
+        "LastName": null,
+        "MobileNo": null,
+        "Email": null,
+        "Address": null,
+        "SellerId": null,
+        "Gender": null,
+        "hiredate": null
+    },
+    {
+        "FirstName": null,
+        "LastName": null,
+        "MobileNo": null,
+        "Email": null,
+        "Address": null,
+        "SellerId": null,
+        "Gender": null,
+        "hiredate": null
+    },
+    {
+        "FirstName": null,
+        "LastName": null,
+        "MobileNo": null,
+        "Email": null,
+        "Address": null,
+        "SellerId": null,
+        "Gender": null,
+        "hiredate": null
+    },
+    {
+        "FirstName": null,
+        "LastName": null,
+        "MobileNo": null,
+        "Email": null,
+        "Address": null,
+        "SellerId": null,
+        "Gender": null,
+        "hiredate": null
+    }
+]

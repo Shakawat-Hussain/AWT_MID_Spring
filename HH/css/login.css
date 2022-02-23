@@ -1,0 +1,41 @@
+
+  th, td {
+    
+    background-color:rgb(85, 108, 241);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 55px;
+    padding-right: 65px;
+  }
+
+td {
+    
+   
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 55px;
+    padding-right: 65px;
+  }
+  .color
+  {
+    color:aliceblue;
+    background-color: brown;
+  }
+
+  body 
+{
+background-color: rgb(156, 252, 228);
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .center {
+    text-align: center;
+    color: red;
+  }
